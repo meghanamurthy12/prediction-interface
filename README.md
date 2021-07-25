@@ -12,3 +12,8 @@ The interface has 6 tabs, each performing a unique functionality that makes the 
 6) Test Model - THe last tab will run the test data on the model and proceed to print a graph depicted the feature importance towards the prediction. 
 
 In this way, the modules of the application can be used to carry out your prediction for any use case. 
+
+There are 2 files required to run this application 
+1) app.R - this is the web application that you can launch in your web browser or within the RStudio interface
+2) splitData.r - this is the file carrying out the parameter grid creation based on which model you have selected
+3) 
