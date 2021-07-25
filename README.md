@@ -16,4 +16,5 @@ In this way, the modules of the application can be used to carry out your predic
 There are 2 files required to run this application 
 1) app.R - this is the web application that you can launch in your web browser or within the RStudio interface
 2) splitData.r - this is the file carrying out the parameter grid creation based on which model you have selected
-3) 
+
+Store both files in the same directory. 
